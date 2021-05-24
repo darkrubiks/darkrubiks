@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Summary 
 
-You can use the [editor on GitHub](https://github.com/darkrubiks/darkrubiks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Control and Automation Engineer and Artificial Intelligence Enthusiast, interested in product development, Industry 4.0, data science and deep learning.
+My most used tools are:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Python |  TensorFlow |  OpenCV |  MatplotLib |  Pandas |  Numpy |  Scikit-learn
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+<img src="images/logo_python.png" width="100"/>  |  <img src="images/logo_tf.png" width="100" /> | <img src="images/logo_opencv.png" width="100" /> |  <img src="images/logo_matplot.png" width="100" />| <img src="images/logo_pandas.png" width="100" /> |   <img src="images/logo_numpy.png" width="100" /> |   <img src="images/logo_sklearn.png" width="100"/> 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Projects
 
-- Bulleted
-- List
+## AI, Machine Learning, Deep Learning
 
-1. Numbered
-2. List
+### Coursera Self-Driving Cars Specialization
+Completed projects on: Longitudinal and Lateral Control, State Estimation and Localization, Visual Perception and Motion Planning
 
-**Bold** and _Italic_ and `Code` text
+### [Mobile Convolutional Neural Network for Neonatal Pain Assessment (Undergraduate Thesis Project)](https://youtu.be/PvChq7tH0Ac)
+Developed a Convolutional Neural Network based on VGG-Face for pain assessment in newborns using methos like, transfer-learning, mobile environment optimization, data augmentation and Explainable AI.
 
-[Link](url) and ![Image](src)
-```
+### [Lane Segmentation for Autonomous Vehicle Navigation using Keras](https://github.com/darkrubiks/Lane_Segmentation)
+![Alt Text](images/lanbe_seg_gif.gif)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Using a U-net archictecture with Resnet as backbone the algorithm is able to detect lane markings.
 
-### Jekyll Themes
+### [Pose Estimation with TensorFlow](https://github.com/darkrubiks/tf-PoseNet)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darkrubiks/darkrubiks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Cortical activation patterns generated during listening to Brazilian music
+Developed a methodology capable of classifying people as musicians or non-musicians using electroencephalogram signals using machine learning models.
 
-### Support or Contact
+<img src="images/IC.jpg" width="600" height="400" />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Publication on the 17th Brazilian Symposium on Computer Music](https://doi.org/10.5753/sbcm.2019.10444)
+
+
+
+## Web Scraping
+
+### [Twitter Bot](https://github.com/darkrubiks/IRBR3_Twitter_bot)
+Used the Twitter API and Yahoo Finance, to creat a bot for posting hourly tweets about the IRBR3 stock.
+
+### [Reddit Bot](https://github.com/darkrubiks/Reddit_Image_Scraper)
+Used the Reddit and Google Drive API, to creat a bot for scrapping images from any Reddit forum and uploading them to Google Drive.
+
+## Kaggle Notebooks and Competitions
+
+- [Aligning images using PCA](https://www.kaggle.com/darkrubiks/aligning-images-using-pca)
+- [Mars 2020 Mission - Perseverence Landing - Comments Analysis with WordClouds and Ngrams](https://www.kaggle.com/darkrubiks/comments-analysis-with-wordclouds-and-ngrams)
+- [K-means grouping Brazil Forest Fires](https://www.kaggle.com/darkrubiks/k-means-grouping-forest-fires)
+- [Classifying Irish Times Headlines Categories](https://www.kaggle.com/darkrubiks/classifying-irish-times-headlines-categories)
+- [NYC Airbnb Exploratory Analysis](https://www.kaggle.com/darkrubiks/nyc-airbnb-exploratory-analysis)
+- [An exploratory study of Heart Desease](https://www.kaggle.com/darkrubiks/heart-disease-uci-kernel)
+
+
+
+
+
+
