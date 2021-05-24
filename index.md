@@ -15,9 +15,9 @@ Python |  TensorFlow |  OpenCV |  MatplotLib |  Pandas |  Numpy |  Scikit-learn
 Completed projects on: Longitudinal and Lateral Control, State Estimation and Localization, Visual Perception and Motion Planning.
 
 ### [Mobile Convolutional Neural Network for Neonatal Pain Assessment (Undergraduate Thesis Project)](https://youtu.be/PvChq7tH0Ac)
-Developed a Convolutional Neural Network based on VGG-Face for pain assessment in newborns using methos like, transfer-learning, mobile environment optimization, data augmentation and Explainable AI.
+Developed a Mobile Convolutional Neural Network based on VGG-Face for pain assessment in newborns using methods like, transfer-learning, mobile environment optimization, data augmentation and Explainable AI.
 
-<img src="images/TCC_1.gif" width="320" height="510" hspace=20/> <img src="images/TCC_2.gif" width="320" height="510" />
+<img src="images/baby_pain.jpg" width="160" height="320" /> <img src="images/history.jpg" width="160" height="320" /> <img src="images/grafico.jpg" width="160" height="320" />
 
 - [Publication on LXCV Workshop @ CVPR 2021](https://research.latinxinai.org/workshops/cvpr/cvpr-2021.html)
 - [Publication on IEEE Seasonal School on Digital Processing of Visual Signals and Applications (DPVSA)](https://wp.ufpel.edu.br/dpvsa/)
