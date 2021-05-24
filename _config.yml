@@ -1,1 +1,8 @@
+title: Leonardo Ferreira # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  "The human mind, the last analog device in a digital world." 
+  <br><br>
+  <a href="https://www.linkedin.com/in/leonardoantunesferreira/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
