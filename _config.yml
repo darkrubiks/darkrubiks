@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   "The human mind, the last analog device in a digital world." 
   <br><br>
   <a href="https://www.linkedin.com/in/leonardoantunesferreira/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://www.kaggle.com/darkrubiks">View My Kaggle Profile</a> 
   
 theme: jekyll-theme-minimal
