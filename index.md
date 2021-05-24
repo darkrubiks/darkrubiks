@@ -7,18 +7,20 @@ Python |  TensorFlow |  OpenCV |  MatplotLib |  Pandas |  Numpy |  Scikit-learn
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 <img src="images/logo_python.png" width="100"/>  |  <img src="images/logo_tf.png" width="100" /> | <img src="images/logo_opencv.png" width="100" /> |  <img src="images/logo_matplot.png" width="100" />| <img src="images/logo_pandas.png" width="100" /> |   <img src="images/logo_numpy.png" width="100" /> |   <img src="images/logo_sklearn.png" width="100"/> 
 
-
-
-
 # Projects
 
 ## AI, Machine Learning, Deep Learning
 
-### Coursera Self-Driving Cars Specialization
-Completed projects on: Longitudinal and Lateral Control, State Estimation and Localization, Visual Perception and Motion Planning
+### [Coursera Self-Driving Cars Specialization](https://coursera.org/verify/specialization/8E8CXCBFQK5U)
+Completed projects on: Longitudinal and Lateral Control, State Estimation and Localization, Visual Perception and Motion Planning.
 
 ### [Mobile Convolutional Neural Network for Neonatal Pain Assessment (Undergraduate Thesis Project)](https://youtu.be/PvChq7tH0Ac)
 Developed a Convolutional Neural Network based on VGG-Face for pain assessment in newborns using methos like, transfer-learning, mobile environment optimization, data augmentation and Explainable AI.
+
+<img src="images/TCC_1.gif" width="320" height="510" hspace=20/> <img src="images/TCC_2.gif" width="320" height="510" />
+
+- [Publication on LXCV Workshop @ CVPR 2021](https://research.latinxinai.org/workshops/cvpr/cvpr-2021.html)
+- [Publication on IEEE Seasonal School on Digital Processing of Visual Signals and Applications (DPVSA)](https://wp.ufpel.edu.br/dpvsa/)
 
 ### [Lane Segmentation for Autonomous Vehicle Navigation using Keras](https://github.com/darkrubiks/Lane_Segmentation)
 ![Alt Text](images/lanbe_seg_gif.gif)
@@ -26,6 +28,7 @@ Developed a Convolutional Neural Network based on VGG-Face for pain assessment i
 Using a U-net archictecture with Resnet as backbone the algorithm is able to detect lane markings.
 
 ### [Pose Estimation with TensorFlow](https://github.com/darkrubiks/tf-PoseNet)
+Developed a pose estimation algorithm using a Tensorflow Lite model.
 
 ### Cortical activation patterns generated during listening to Brazilian music
 Developed a methodology capable of classifying people as musicians or non-musicians using electroencephalogram signals using machine learning models.
@@ -33,8 +36,6 @@ Developed a methodology capable of classifying people as musicians or non-musici
 <img src="images/IC.jpg" width="600" height="400" />
 
 - [Publication on the 17th Brazilian Symposium on Computer Music](https://doi.org/10.5753/sbcm.2019.10444)
-
-
 
 ## Web Scraping
 
