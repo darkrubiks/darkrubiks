@@ -19,6 +19,7 @@ Developed a Mobile Convolutional Neural Network based on VGG-Face for pain asses
 
 <img src="images/baby_pain.jpg" width="160" height="320" /> <img src="images/history.jpg" width="160" height="320" /> <img src="images/grafico.jpg" width="160" height="320" />
 
+- [Publication on SIBGRAPI 2021 - 34th Conference on Graphics, Patterns and Images](http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45C6TAL)
 - [Publication on LXCV Workshop @ CVPR 2021](https://research.latinxinai.org/workshops/cvpr/cvpr-2021.html)
 - [Publication on IEEE Seasonal School on Digital Processing of Visual Signals and Applications (DPVSA)](https://wp.ufpel.edu.br/dpvsa/)
 
@@ -47,6 +48,7 @@ Used the Reddit and Google Drive API, to creat a bot for scrapping images from a
 
 ## Kaggle Notebooks and Competitions
 
+- [Reverse Image Search with Keras](https://www.kaggle.com/darkrubiks/reverse-image-search-with-keras)
 - [Aligning images using PCA](https://www.kaggle.com/darkrubiks/aligning-images-using-pca)
 - [Mars 2020 Mission - Perseverence Landing - Comments Analysis with WordClouds and Ngrams](https://www.kaggle.com/darkrubiks/comments-analysis-with-wordclouds-and-ngrams)
 - [K-means grouping Brazil Forest Fires](https://www.kaggle.com/darkrubiks/k-means-grouping-forest-fires)
