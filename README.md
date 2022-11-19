@@ -7,4 +7,4 @@
 - ⚡ Check out my [Kaggle Experiments Repo](https://github.com/darkrubiks/Kaggle_Notebooks)
 
 
-- 💬 Feel free to send my a message about my projects!
+- 💬 Feel free to send me a message about my projects!
